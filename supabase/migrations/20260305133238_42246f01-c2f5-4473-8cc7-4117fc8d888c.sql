@@ -1,0 +1,1 @@
+CREATE POLICY "Products are publicly deletable" ON public.products FOR DELETE USING (true);

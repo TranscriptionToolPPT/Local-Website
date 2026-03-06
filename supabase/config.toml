@@ -1,0 +1,10 @@
+project_id = "npxkgpldzgkfvqslmgyp"
+
+[functions.create-order]
+verify_jwt = false
+
+[functions.update-order-status]
+verify_jwt = false
+
+[functions.process-return]
+verify_jwt = false
